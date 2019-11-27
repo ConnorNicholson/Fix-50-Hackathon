@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LennyDickey/counselor/static/css/main.fe4fa637.chunk.css",
+    "main.js": "/LennyDickey/counselor/static/js/main.0278d59b.chunk.js",
+    "main.js.map": "/LennyDickey/counselor/static/js/main.0278d59b.chunk.js.map",
+    "runtime-main.js": "/LennyDickey/counselor/static/js/runtime-main.056c03c9.js",
+    "runtime-main.js.map": "/LennyDickey/counselor/static/js/runtime-main.056c03c9.js.map",
+    "static/css/2.21da5c49.chunk.css": "/LennyDickey/counselor/static/css/2.21da5c49.chunk.css",
+    "static/js/2.e83fd0eb.chunk.js": "/LennyDickey/counselor/static/js/2.e83fd0eb.chunk.js",
+    "static/js/2.e83fd0eb.chunk.js.map": "/LennyDickey/counselor/static/js/2.e83fd0eb.chunk.js.map",
+    "index.html": "/LennyDickey/counselor/index.html",
+    "precache-manifest.36f67803bee4beeea9dd48b5ae97c916.js": "/LennyDickey/counselor/precache-manifest.36f67803bee4beeea9dd48b5ae97c916.js",
+    "service-worker.js": "/LennyDickey/counselor/service-worker.js",
+    "static/css/2.21da5c49.chunk.css.map": "/LennyDickey/counselor/static/css/2.21da5c49.chunk.css.map",
+    "static/css/main.fe4fa637.chunk.css.map": "/LennyDickey/counselor/static/css/main.fe4fa637.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.056c03c9.js",
+    "static/css/2.21da5c49.chunk.css",
+    "static/js/2.e83fd0eb.chunk.js",
+    "static/css/main.fe4fa637.chunk.css",
+    "static/js/main.0278d59b.chunk.js"
+  ]
+}
