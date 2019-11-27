@@ -1,4 +1,4 @@
-// Future Development
+// Future Development - Backend
 
 // // required node modules: dotenv('password protection/security'), express(server), mongoose(database), cors(sending data from express port to react port)
 // require('dotenv').config();
